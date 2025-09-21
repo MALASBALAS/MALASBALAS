@@ -2,7 +2,7 @@
 *Full-stack developer, creative maker & actor | Currently not working for any company*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MALAS_BALAS&color=blueviolet" alt="Visitors counter"/>
+  <img src="https://komarev.com/ghpvc/?username=MALASBALAS&color=blueviolet" alt="Visitors counter"/>
 </p>
 
 💻 Full-stack developer & creative maker from Spain  
@@ -38,7 +38,10 @@
 
 - [**The Balas Family**](https://thebalasfamily.com) – Family projects & voice acting.  
 - [**HangData**](https://hangdata.balbe.xyz) – Creative tech & data experiments.  
-- [**AcademyLiquidity**](https://academyliquidity.com) – Trading academy platform.  
+- [**AcademyLiquidity**](https://academyliquidity.com) – Trading academy platform.
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarobalas)
+
 
 ---
 
