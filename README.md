@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Álvaro Balas
 
-<!--
-**MALASBALAS/MALASBALAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MALASBALAS&color=blueviolet" alt="Visitors"/>
+</p>
 
-Here are some ideas to get you started:
+💻 Full-stack developer & creative maker from Spain  
+🎓 Higher Technician in Multiplatform Application Development (DAM)  
+🕹️ From **React websites** to **Python automation**, Arduino gadgets and smart-home ideas — I love blending code with imagination.  
+✨ Curious by nature, always looking for new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&lines=Full-stack+developer;Creative+maker;Always+learning" alt="Typing SVG">
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech I enjoy
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?logo=homeassistant&logoColor=white)
+
+---
+
+🚀 **Currently:** Crafting a personal Iron Man suit-PC and projects that mix software, hardware and a dash of fun.  
+💡 Open to collaborations & always learning!
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/MALASBALAS/MALASBALAS/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
