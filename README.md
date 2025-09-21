@@ -33,6 +33,5 @@
 ---
 
 ### ⛏️ Try my interactive Minecraft demo
-<a href="http://mc-breaker.balbe.xyz" target="_blank">
-  [![Play the demo](https://img.shields.io/badge/Play%20the%20demo-%F0%9F%94%AC%20Mine%20blocks-00bfff?style=for-the-badge)](https://mc-breaker.balbe.xyz)
-</a>
+[![Play the demo](https://img.shields.io/badge/Play%20the%20demo-%F0%9F%94%AC%20Mine%20blocks-00bfff?style=for-the-badge)](https://mc-breaker.balbe.xyz)
+
